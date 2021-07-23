@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-
+		<i class="fas fa-robot fa-3x" style="color:blue"></i>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirhansoylu01&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bedirhansoylu01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
