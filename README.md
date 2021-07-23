@@ -1,4 +1,4 @@
-### Hi there  I am telos AKA(Bedirhan)
+### Hi there ## &#x1f544;  I am telos AKA(Bedirhan)
 
 <!--
 **Bedirhansoylu01/Bedirhansoylu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
