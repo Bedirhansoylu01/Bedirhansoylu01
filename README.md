@@ -1,4 +1,4 @@
-### Hi there <i class="fas fa-robot fa-3x" style="color:blue"></i>  I am telos AKA(Bedirhan)
+### Hi there <span class="iconify" data-icon="fa-solid:robot" data-inline="false" style="color: #00CED1;"></span> I am telos AKA(Bedirhan)
 
 <!--
 **Bedirhansoylu01/Bedirhansoylu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
-		<i class="fas fa-robot fa-3x" style="color:blue"></i>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirhansoylu01&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bedirhansoylu01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
