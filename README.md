@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am telos  
 
 <!--
 **Bedirhansoylu01/Bedirhansoylu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="" alt="CSS Logo" width="50" height="50"/>
 
 ---
