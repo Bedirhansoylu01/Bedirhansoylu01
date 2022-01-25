@@ -1,13 +1,11 @@
-## Hi there I am telos AKA(Bedirhan) 🤖
-M.E.R.N. stack ,Django,web scraping Google clound are my expertise.
-Over 4 years of experience, I am a lead full stack developer.
-
+                                                      Hi, I'm Telos! AKA(Bedirhan) 🤖
+                                       Software Developer grinding hard to make something cool
+                                         sparkles Favorite Tech:React, Python ,GO ,Rust,Lınux...
+                                     React stack ,Django,web scraping,Blockchain ,GCP are my expertise.
+                                                     I am a lead Software developer.
+                                                   email Cyber21fine@protonmail.com
      
 <!--
-**Bedirhansoylu01/Bedirhansoylu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
