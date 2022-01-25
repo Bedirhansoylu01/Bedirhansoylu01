@@ -1,6 +1,6 @@
                                                       Hi, I'm Telos! AKA(Bedirhan) 🤖
                                        Software Developer grinding hard to make something cool
-                                         sparkles Favorite Tech:React, Python ,GO ,Rust,Lınux...
+                                               Favorite Tech:React, Python ,GO ,Rust,Lınux...
                                      React stack ,Django,web scraping,Blockchain ,GCP are my expertise.
                                                      I am a lead Software developer.
                                                    email Cyber21fine@protonmail.com
