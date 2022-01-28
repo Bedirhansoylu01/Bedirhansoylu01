@@ -1,12 +1,14 @@
- <p align="center">
+ <div align="center">
                                                  Hi, I'm Telos! AKA(Bedirhan) 🤖<br>
                                        Software Developer grinding hard to make something cool<br>
                                                   Favorite Programming Languages:Rust, C/C++, Go ,JavaScript, Python, Bash<br>
                                             Django, React, Nextjs, Docker, web scraping,Blockchain, SQL, GCP are my expertise.<br>
                                                      I am a lead Software developer.<br>
-                                                   email Cyber21fine@protonmail.com<br>
-                                                  [LinkedIn](https://www.linkedin.com/in/bedirhan-soylu-89b103224)<br>
- </p> 
+                                                   email Cyber21fine@protonmail.com<br>                                 
+  <a href="https://www.linkedin.com/in/bedirhan-soylu-89b103224">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;<br>
+ </div> 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
