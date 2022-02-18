@@ -1,3 +1,5 @@
+ <p align="center"><img width="70%" src="https://raw.githubusercontent.com/telos01/telos01/main/sci-fi-city-night.jpg" /></p>
+
  <div align="center">
                                                  Hi, I'm Telos! AKA(Bedirhan) 🤖<br>
                                        Software Developer grinding hard to make something cool<br>
