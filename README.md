@@ -22,8 +22,7 @@
 
 <br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telos01&hide_border=true&langs_count=4&hide=html,css&theme=tokyonight" /> 
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telos01&hide_border=true&hide=html,css&theme=tokyonight" /> 
 
 ---
 
