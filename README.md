@@ -20,8 +20,10 @@
 - ⚡ Fun fact: ...
 -->
 
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telos01&hide=html,css&theme=tokyonight)
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=telos01&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telos01&hide_border=true&langs_count=4&hide=html,css&theme=tokyonight" /> 
+
 
 ---
 
