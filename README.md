@@ -1,4 +1,4 @@
- <p align="center"><img width="70%" height="%35" src="https://raw.githubusercontent.com/telos01/telos01/main/sci-fi-city-night.jpg" /></p>
+ <p align="center"><img width="80%" height="%25" src="https://raw.githubusercontent.com/telos01/telos01/main/sci-fi-city-night.jpg" /></p>
 
  <div align="center">
                                                  Hi, I'm Telos! AKA(Bedirhan) 🤖<br>
