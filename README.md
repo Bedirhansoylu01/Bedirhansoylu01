@@ -3,8 +3,8 @@
  <div align="center">
                                                  Hi, I'm Telos! AKA(Bedirhan) 🤖<br>
                                        Software Developer grinding hard to make something cool<br>
-                                                  Favorite Programming Languages:Rust, C/C++, Go ,JavaScript, Python, Bash<br>
-                                            Linux, Django, React, Nextjs, Docker, web scraping,Blockchain, SQL, GCP are my expertise.<br>
+                                                  Favorite Programming Languages:Rust, C/C++, Python, Go, JavaScript, Bash<br>
+                                            Linux, ROS, Machine Learning, Blockchain, Solana, React, Nextjs, SQL, gRPC are my expertise.<br>
                                                      I am a lead Software developer.<br>
                                                    email Cyber21fine@protonmail.com<br>                                 
   <a href="https://www.linkedin.com/in/bedirhan-soylu-89b103224">
